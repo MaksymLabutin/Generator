@@ -1,0 +1,6 @@
+C:\Users\Maks\Documents\Visual Studio 2017\Projects\Generator\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Documents\Visual Studio 2017\Projects\Generator\Generator\bin\Debug\Generator.exe.config
+C:\Users\Maks\Documents\Visual Studio 2017\Projects\Generator\Generator\bin\Debug\Generator.exe
+C:\Users\Maks\Documents\Visual Studio 2017\Projects\Generator\Generator\bin\Debug\Generator.pdb
+C:\Users\Maks\Documents\Visual Studio 2017\Projects\Generator\Generator\obj\Debug\Generator.exe
+C:\Users\Maks\Documents\Visual Studio 2017\Projects\Generator\Generator\obj\Debug\Generator.pdb
